@@ -47,7 +47,7 @@ status:
 last_name: Wu
 role: Professor of Artificial Intelligence
 highlight_name: true
-title: Alfonso
+title: Alfons
 first_name: Alice
 email: ""
 ---
